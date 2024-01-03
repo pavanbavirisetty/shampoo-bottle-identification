@@ -21,3 +21,4 @@
 + read the desired image which need to be predicted
 + run the code in the order
 + predicted outcome is shown in the last cell of the notebook
+# Since the data is huge I am not able to share the data. But, to run the model above resources works

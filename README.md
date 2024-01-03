@@ -15,6 +15,7 @@
 + then run the command `#environmentname\scripts\activate.bat`
 ## Installing Dependencies
 + run the command `pip install -r requirements.txt`
++ use this link to download the model.h5 file __[model.h5](https://drive.google.com/file/d/1O-aJ1t3ArqRhpYOV78AF8M2tFRSJA_-i/view?usp=sharing)__
 ## How to run code
 + open `pred.py` in a compiler
 + read the desired image which need to be predicted

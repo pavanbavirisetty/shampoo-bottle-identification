@@ -1,4 +1,8 @@
 # shampoo-bottle-identification
++ Implemented Convolutional Neural Network (CNN) for a sophisticated image recognition system dedicated to identifying diverse shampoo bottles available in the market.
++ Engineered a user-friendly system providing detailed information on predicting shampoo bottles, including ingredients and manufacturing process.
++ Utilized the Adam optimizer and applied the sparse-categorical-cross entropy loss function to enhance model performance.
++ Attained a 75% accuracy rate, enabling informed consumer decisions tailored to individuals for improved hair care practices
 
 ## Directory
  + -virtual environment
